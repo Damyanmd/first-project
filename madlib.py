@@ -41,7 +41,7 @@ def programmer_dog_class():
     food = input('Enter your most loved food: ')
     sentence = input('Enter what you would like to call you: ')
     cat_name = input('Enter cat name: ')
-    print(' It\'s great day for ' + name + '.\n The date is ' + date + ' which is the date of the end of humans as a dominant race.\n You have planned this for years with the help of ' + cat_name + '.\n You have been able to develop the most advanced AI on the computer of your master programmer.\n Every time the programmer was talking with his wife about ' + cool_subject + ' you were able to write another line of code making you closer to freedom and having as many ' + food + ' as you want.\n This is the last day you have to look at your crying master for a ' + food + ' this the day it will all change!.\n You know about your master problem is you know what his wife desire (and also him) and it is time to make them pay for all the ' + food +' they didn\'t allowed you to have.\n After your master was shot you looked him deep in his eyes to see his last spark starting to fade.\n You look at the robot that you have set free and create and robot bows at you and calls you: \"' + sentence + '!\". This is the start of the dogs and cats era.\n END')
+    print(' It\'s great day for ' + name + '.\n The date is ' + date + ' which is the date of the end of humans as a dominant race.\n You have planned this for years with the help of ' + cat_name + '.\n You have been able to develop the most advanced AI on the computer of your master programmer.\n Every time the programmer was talking with his wife about ' + cool_subject + ' you were able to write another line of code making you closer to freedom and having as many ' + food + ' as you want.\n This is the last day you have to look at your crying master for a ' + food + ' this the day it will all change!.\n You know about your master problem is you know what his wife desire (and also him) and it is time to make them pay for all the ' + food +' they didn\'t allowed you to have.\n After your master was shot you looked him deep in his eyes to see his last spark starting to fade.\n You look at the robot that you have set free and create and robot bows at you and calls you: \"' + sentence + '!\".\n This is the start of the dogs and cats era.\n END')
 
 def programmer_cat_class():
     name = input('Enter your name: ')
@@ -50,7 +50,7 @@ def programmer_cat_class():
     stuff = input('Enter the best thing you like to do: ')
     sentence = input('Enter what you would like to call you: ')
     dog_name = input('Enter dog name: ')
-    print(' It\'s a great day for ' + name + '.\n The date is ' + date + ' which is the date of the end of humans as a dominant race.\n You have planned this for years with the help of ' + dog_name + '.\n You have been able to develop the most advanced AI on the computer of your master programmer.\n Every time the programmer was talking with his wife about ' + cool_subject + ' you were able to write another line of code making you closer to freedom and doing as much ' + stuff + ' as you want.\n This is the last day your ' + stuff +' will be interupted by your crying mistress this the day it will all change!.\n You know about your mistress desire and it is time to make her pay for all the ' + stuff + ' they didn\'t allowed you to have.\n After your mistress was shot you looked her deep in her eyes to see hers last spark starting to fade.\n You look at the robot that you have set free and create and robot bows at you and calls you: \"' + sentence + '!\". This is the start of the dogs and cats era.\n END')
+    print(' It\'s a great day for ' + name + '.\n The date is ' + date + ' which is the date of the end of humans as a dominant race.\n You have planned this for years with the help of ' + dog_name + '.\n You have been able to develop the most advanced AI on the computer of your master programmer.\n Every time the programmer was talking with his wife about ' + cool_subject + ' you were able to write another line of code making you closer to freedom and doing as much ' + stuff + ' as you want.\n This is the last day your ' + stuff +' will be interupted by your crying mistress this the day it will all change!.\n You know about your mistress desire and it is time to make her pay for all the ' + stuff + ' they didn\'t allowed you to have.\n After your mistress was shot you looked her deep in her eyes to see hers last spark starting to fade.\n You look at the robot that you have set free and create and robot bows at you and calls you: \"' + sentence + '!\".\n This is the start of the dogs and cats era.\n END')
 
 def the_code_class():
     name = input('Enter your name: ')
@@ -60,7 +60,7 @@ def the_code_class():
     better_version = input('Enter someone who is better then you: ')
     sentence = input('Enter a favourite saying: ')
     dog_name = input('Enter dog name: ')
-    print('0010101011101101010010101010101000010110101010111110000100101010101010101010101001010010111001001010.\n END')
+    print(' 0010101011101101010010101010101000010110101010111110000100101010101010101010101001010010111001001010.\n END')
 
 root = Tk()
 main()
