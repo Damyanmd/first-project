@@ -3,6 +3,7 @@ from tkinter import *
 def main():
     root.geometry('400x400')
     root.title('Mad Libs Generator by Damyan Doykov')
+    root.resizable(0, 0)
     Label(root, text='Mad Libs Generator \n Have Fun!', font='arial 20 bold').pack()
     Label(root, text='!__(Choose a class)__!', font='arial 15 roman').place(x=95, y=80)
     Button(root, text='Programmer', font='arial 12', command=programmer_class, bg='ghost white').place(x=150, y=120)
